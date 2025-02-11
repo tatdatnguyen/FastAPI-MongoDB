@@ -7,6 +7,7 @@ pip install fastapi motor uvicorn
 ``
 
 Install the database
+
 ``
 sudo apt update
 sudo apt install -y mongodb 
